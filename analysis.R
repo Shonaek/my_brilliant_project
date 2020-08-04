@@ -19,11 +19,12 @@ mosquito_data$salinity_std <-
   rescale(mosquito_data$salinity__ppt)
 
 # model
+## I would add a model in here it will be linear regression
 
 Some useful stuff 
 
 # plotting output
-
+## We can plot that on an xy-axis
 
 more stuff
 

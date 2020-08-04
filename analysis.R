@@ -5,7 +5,7 @@ library(holepunch)
 remotes::install_github("karthik/holepunch")
 
 
-#
+# Sourcing functions from other scripts
 source("R/data_cleaning_functions.R")
 source("R/plotting_functions.R")
 
